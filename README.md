@@ -9,19 +9,19 @@
 ![](https://repository-images.githubusercontent.com/237800104/dfc69080-46fb-11eb-9413-0f02ce8f5532)
 
 <div>
- 
-My name is Daniel Pérez, and I am currently immersed in the world of programming at 42 Madrid Telefónica. Despite being relatively new to this realm, my passion for programming and technology fuels my journey.
 
 <h2>About Me 💻  </h2>
+My name is Daniel Pérez, and I am currently immersed in the world of programming at 42 Madrid Telefónica. Despite being relatively new to this realm, my passion for programming and technology fuels my journey.
+
 Discovering the magic behind coding has been a revelation for me. I'm constantly amazed by the endless possibilities in the world of programming. My curiosity and insatiable desire to learn drive me to explore every corner of this vast field, seeking new challenges and opportunities for growth.
 
-Student at 42 Madrid Telefónica 🎓  
+<h2>Student at 42 Madrid Telefónica 🎓  </h2>
 I'm currently a student at 42 Madrid Telefónica, where I am honing my skills and knowledge to excel in the tech world.
 
-Passion for Technology 💡  
+<h2>Passion for Technology 💡  </h2>
 My passion for technology extends beyond just writing code. I'm fascinated by how technology can transform the world around us. Staying updated with the latest tech trends, I'm always on the lookout for innovative ways to make a difference and contribute to the digital revolution.
 
-My Restless Mindset 🚀  
+<h2>**My Restless Mindset 🚀  **</h2>
 I'm inherently curious, always seeking new ways to challenge myself and acquire fresh knowledge. I firmly believe in the power of continuous learning and am open to new ideas and perspectives. I'm willing to work hard, overcome obstacles, and achieve my goals.
  
  </div>
