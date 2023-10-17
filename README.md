@@ -53,3 +53,6 @@ I'm inherently curious, always seeking new ways to challenge myself and acquire 
   
   <br/><br/><br/>
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dperez-a)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dperez-a&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
