@@ -21,7 +21,7 @@ I'm currently a student at 42 Madrid Telefónica, where I am honing my skills an
 <h2>Passion for Technology 💡  </h2>
 My passion for technology extends beyond just writing code. I'm fascinated by how technology can transform the world around us. Staying updated with the latest tech trends, I'm always on the lookout for innovative ways to make a difference and contribute to the digital revolution.
 
-<h2>**My Restless Mindset 🚀  **</h2>
+<h2>My Restless Mindset 🚀  </h2>
 I'm inherently curious, always seeking new ways to challenge myself and acquire fresh knowledge. I firmly believe in the power of continuous learning and am open to new ideas and perspectives. I'm willing to work hard, overcome obstacles, and achieve my goals.
  
  </div>
