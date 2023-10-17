@@ -8,7 +8,7 @@
 
 ![I am junior developer](https://repository-images.githubusercontent.com/237800104/dfc69080-46fb-11eb-9413-0f02ce8f5532)
 
-<div align="center">
+<div>
  
 My name is Daniel Pérez, and I am currently immersed in the world of programming at 42 Madrid Telefónica. Despite being relatively new to this realm, my passion for programming and technology fuels my journey.
 
