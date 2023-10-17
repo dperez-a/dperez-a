@@ -28,7 +28,7 @@ I'm inherently curious, always seeking new ways to challenge myself and acquire 
   <a href="mailto:dani.mm.0503@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/daniel-perez-ayuso" target="_blank">
+  <a href="https://www.linkedin.com/in/daniel-pérez-ayuso-b71230295/"_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://dperez-a.github.io" target="_blank">
