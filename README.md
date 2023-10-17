@@ -2,11 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Daniel+Pérez!;" />
 </h1>
 
-<h3 align="center">Junior developer focused on 42-madrid</h3>
+<h3 align="center">Junior developer focused on 42-madrid</h3>(https://repository-images.githubusercontent.com/237800104/dfc69080-46fb-11eb-9413-0f02ce8f5532)
 
 <br/>
-
-(https://repository-images.githubusercontent.com/237800104/dfc69080-46fb-11eb-9413-0f02ce8f5532)
 
 <div align="center">
  
