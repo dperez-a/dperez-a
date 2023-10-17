@@ -31,8 +31,7 @@ I'm inherently curious, always seeking new ways to challenge myself and acquire 
   <a href="https://www.linkedin.com/in/daniel-pérez-ayuso-b71230295/"_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://dperez-a.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+    <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
