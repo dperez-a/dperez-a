@@ -12,7 +12,7 @@
  
 My name is Daniel Pérez, and I am currently immersed in the world of programming at 42 Madrid Telefónica. Despite being relatively new to this realm, my passion for programming and technology fuels my journey.
 
-About Me 💻  
+<h2>About Me 💻  </h2>
 Discovering the magic behind coding has been a revelation for me. I'm constantly amazed by the endless possibilities in the world of programming. My curiosity and insatiable desire to learn drive me to explore every corner of this vast field, seeking new challenges and opportunities for growth.
 
 Student at 42 Madrid Telefónica 🎓  
