@@ -2,14 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Daniel+Pérez!;" />
 </h3>
 
-<h3 align="center">Junior developer focused on 42-madrid</h3>
-
-<br/>
-
-![](https://repository-images.githubusercontent.com/237800104/dfc69080-46fb-11eb-9413-0f02ce8f5532)
-
-<div>
-
 <h2>About Me 💻  </h2>
 My name is Daniel Pérez, and I am currently immersed in the world of programming at 42 Madrid Telefónica. Despite being relatively new to this realm, my passion for programming and technology fuels my journey.
 
@@ -17,6 +9,12 @@ Discovering the magic behind coding has been a revelation for me. I'm constantly
 
 <h2>Student at 42 Madrid Telefónica 🎓  </h2>
 I'm currently a student at 42 Madrid Telefónica, where I am honing my skills and knowledge to excel in the tech world.
+
+<br/>
+
+![](https://repository-images.githubusercontent.com/237800104/dfc69080-46fb-11eb-9413-0f02ce8f5532)
+
+<div>
 
 <h2>Passion for Technology 💡  </h2>
 My passion for technology extends beyond just writing code. I'm fascinated by how technology can transform the world around us. Staying updated with the latest tech trends, I'm always on the lookout for innovative ways to make a difference and contribute to the digital revolution.
@@ -26,7 +24,7 @@ I'm inherently curious, always seeking new ways to challenge myself and acquire 
  
  </div>
  
-<div align="center"> 
+<div> 
   <a href="mailto:dani.mm.0503@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -40,7 +38,7 @@ I'm inherently curious, always seeking new ways to challenge myself and acquire 
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,vscode,github,git" /><br>
@@ -49,7 +47,7 @@ I'm inherently curious, always seeking new ways to challenge myself and acquire 
 <br/>
 <hr/>
 
-<div align="center">
+<div>
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
