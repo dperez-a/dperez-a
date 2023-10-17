@@ -3,6 +3,7 @@
 </h1>
 
 <h3 align="center">Junior developer focused on 42-madrid</h3>
+(https://repository-images.githubusercontent.com/237800104/dfc69080-46fb-11eb-9413-0f02ce8f5532)
 
 <br/>
 
