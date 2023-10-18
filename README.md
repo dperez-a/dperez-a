@@ -39,7 +39,7 @@ I'm inherently curious, always seeking new ways to challenge myself and acquire 
  
 <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
+<div>
     <img src="https://skillicons.dev/icons?i=c,vscode,github,git" /><br>
 </div>
 
